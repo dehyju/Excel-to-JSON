@@ -15,22 +15,22 @@ import os
 ~~~
 ## Pip libraries
 ### Pandas
-Install pandas
+Install pandas:
 ~~~
 pip install pandas openpyxl
 ~~~
-Import pandas
+Import pandas:
 ~~~
 import pandas as pd
 ~~~
 ### Pyinstsaller
 Used pyinstaller to convert to .exe file
 
-Install pyinstaller
+Install pyinstaller:
 ~~~
 pip install pyinstaller
 ~~~
-Convert file without PATH being updated
+Convert file to .exe without PATH being updated:
 ~~~
 python -m PyInstaller --onefile --icon=convert-icon.ico --noconsole excel-reader.py
 ~~~
