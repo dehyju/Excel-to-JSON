@@ -1,5 +1,6 @@
 # Excel-to-JSON
-This is the source code for an excel to json convert with an executable file!
+This is the source code for an excel to json convert with an executable file.
+Go to the dist folder to get the executable file!
 
 # Libraries used
 ## Python libraries
