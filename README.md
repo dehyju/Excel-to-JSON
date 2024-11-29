@@ -34,3 +34,5 @@ Convert file to .exe without PATH being updated:
 ~~~
 python -m PyInstaller --onefile --icon=convert-icon.ico --noconsole excel-reader.py
 ~~~
+## Icon used for App
+[https://icons8.com/](https://icons8.com/icons/set/convert)
